@@ -1,0 +1,2 @@
+INSERT INTO account (id, acct_number, balance, name, rate) VALUES (1, 12345, 400,  'Geetanjali Iyer', 0.035);
+INSERT INTO account (id, acct_number, balance, name, rate) VALUES (2, 54321, 700,  'Lata Iyer', 0.035);
